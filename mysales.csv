@@ -1,0 +1,23 @@
+Date,Order_id,Customer_name,Product,Color,Print,Size,Quantity,Price,discount,Tax(%),Shipping,Total
+15/03/2026,10001,James cameroon,T-shirt,Black,Minimal,L,1,25,0,13,5,33.25
+17/03/2026,1002,Leo,T-shirt,Black,Graphic,M,1,35,0,13,5,al
+18/03/2026,1003,Gabriel,pant,Blue,Graphic,M,2,25,0,13,5,61.5
+19/03/2026,10024,matthew,T-shirt,White,Graphic,M,5,25,0,13,5,146.25
+20/03/2026,10056,paol,chino,Red,Graphic,M,5,25,0,13,5,146.25
+21/03/2026,10057,paul,T-shirt,acidwash,Graphic,M,6,25,0,13,5,174.5
+22/03/2026,10050,ellia,T-shirt,acidwash,Graphic,M,3,25,0,13,5,89.75
+23/03/2026,10030,kushum,T-shirt,acidwash,Graphic,M,2,25,0,13,5,61.5
+24/03/2026,10042,saurav,T-shirt,acidwash,Graphic,M,1,25,0,13,5,33.25
+25/03/2026,10035,renuka,T-shirt,acidwash,Graphic,M,2,25,0,13,5,61.5
+26/03/2026,10067,daazen,T-shirt,acidwash,Graphic,M,1,25,0,13,5,33.25
+27/03/2026,10053,abiraj,T-shirt,acidwash,Graphic,M,4,25,0,13,5,118
+28/03/2026,10080,bikas,T-shirt,acidwash,Graphic,M,2,25,0,13,5,61.5
+29/03/2026,10069,sarsoti,T-shirt,acidwash,Graphic,M,1,25,0,13,5,33.25
+30/03/2026,10020,kashu,T-shirt,acidwash,Graphic,M,2,25,0,13,5,61.5
+31/03/2026,10034,suman,T-shirt,acidwash,Graphic,M,2,25,0,13,5,61.5
+01/04/2026,10055,sunil,T-shirt,acidwash,Graphic,M,2,25,0,13,5,61.5
+02/04/2026,10044,san,T-shirt,acidwash,Graphic,M,2,25,0,13,5,61.5
+03/04/2026,10045,julian,T-shirt,acidwash,Graphic,M,2,25,0,13,5,61.5
+04/04/2026,10047,jake,T-shirt,acidwash,Graphic,M,2,25,0,13,5,61.5
+05/04/2026,10049,ronaldo,T-shirt,acidwash,Graphic,M,2,25,0,13,5,61.5
+06/04/2026,10036,messi,T-shirt,acidwash,Graphic,M,2,25,0,13,5,61.5
